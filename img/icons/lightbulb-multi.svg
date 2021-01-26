@@ -1,9 +1,9 @@
-<svg id="lightbulb-color" xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+<svg id="lightbulb-multi" xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
   <rect id="Rectangle_411" data-name="Rectangle 411" width="200" height="200" fill="none"/>
   <g id="Group_151" data-name="Group 151">
     <g id="light-bulb" transform="translate(-5.242 27)">
       <g id="Group_442" data-name="Group 442" transform="translate(-3580.758 -1942)">
-        <circle id="Ellipse_168" data-name="Ellipse 168" cx="11" cy="11" r="11" transform="translate(3675 2062)" fill="#fff"/>
+        <circle id="Ellipse_168" data-name="Ellipse 168" cx="11" cy="11" r="11" transform="translate(3675 2062)" fill="#c8e7ff"/>
         <path id="Union_6" data-name="Union 6" d="M17,78V65.8a35.5,35.5,0,1,1,37,0V78Z" transform="translate(3651 1966)" fill="#fff"/>
       </g>
       <rect id="Rectangle_450" data-name="Rectangle 450" width="33" height="25" transform="translate(89.242 104)" fill="#77ffd6"/>
